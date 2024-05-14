@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-png-to-ico",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Reginna Chao",
+  "license": "MIT",
+  "dependencies": {
+    "png-to-ico": "^2.1.8"
+  }
+}
